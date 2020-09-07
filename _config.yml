@@ -18,7 +18,7 @@ title: My Awesome Site
 email:
 description:
 baseurl: ""# the optional subpath of your site, e.g. "/blog"
-url: "DevRedTurtle.GitHub.io/posts"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "DevRedTurtle.GitHub.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
